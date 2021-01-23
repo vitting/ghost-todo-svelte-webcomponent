@@ -1,4 +1,4 @@
-<svelte:options tag="ghost-todo-comp" />
+<svelte:options tag="ghost-todo-comp-sv" />
 
 <script lang="ts">
   import cuid from "cuid";
