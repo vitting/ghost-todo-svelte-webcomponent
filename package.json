@@ -1,6 +1,9 @@
 {
   "name": "ghost-todo-svelte-webcomponent",
-  "version": "1.0.0",
+  "description": "Demo project - Simple Todo list web component made in Svelte",
+  "main": "pubilc/build/bundle.js",
+  "module": "pubilc/build/bundle.js",
+  "version": "0.0.1",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
@@ -28,5 +31,6 @@
   "dependencies": {
     "cuid": "^2.1.8",
     "sirv-cli": "^1.0.0"
-  }
+  },
+  "license": "MIT"
 }
