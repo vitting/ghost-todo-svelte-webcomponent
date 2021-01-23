@@ -1,9 +1,9 @@
 {
   "name": "ghost-todo-svelte-webcomponent",
   "description": "Demo project - Simple Todo list web component made in Svelte",
-  "main": "pubilc/build/bundle.js",
-  "module": "pubilc/build/bundle.js",
-  "version": "0.0.1",
+  "main": "public/build/bundle.js",
+  "module": "public/build/bundle.js",
+  "version": "0.0.2",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
