@@ -1,3 +1,5 @@
+<svelte:options tag="ghost-todo-item-comp" />
+
 <script lang="ts">
   import { createEventDispatcher, onMount } from "svelte";
   import type { TodoItem } from "./interfaces/todo_item.interface";

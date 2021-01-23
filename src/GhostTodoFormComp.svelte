@@ -1,3 +1,5 @@
+<svelte:options tag="ghost-todo-form-comp" />
+
 <script lang="ts">
   import { createEventDispatcher } from "svelte";
   import cuid from "cuid";
