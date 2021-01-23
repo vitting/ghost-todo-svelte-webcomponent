@@ -3,7 +3,7 @@
   "description": "Demo project - Simple Todo list web component made in Svelte",
   "main": "public/build/bundle.js",
   "module": "public/build/bundle.js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
