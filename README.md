@@ -21,5 +21,5 @@ import "./node_modules/ghost-todo-svelte-webcomponent/public/build/bundle.js";
 ## Insert Web component in HTML
 
 ```html
-<ghost-todo-comp inittodos="Todo item 1, Todo item 2"></ghost-todo-comp>
+<ghost-todo-comp-sv inittodos="Todo item 1, Todo item 2"></ghost-todo-comp-sv>
 ```
