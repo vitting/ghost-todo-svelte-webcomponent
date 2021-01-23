@@ -12,7 +12,7 @@
     dispatch("clickTodoRemove", todo);
   }
 
-  function handleCheckClick(e) {
+  function handleCheckClick() {
     todo.completed = completed;
     dispatch("changeTodoCompleted", todo);
   }
