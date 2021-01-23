@@ -3,5 +3,5 @@
 </script>
 
 <main>
-  <GhostTodoComp></GhostTodoComp>
+  <GhostTodoComp initTodos="Todo1, Todo2"></GhostTodoComp>
 </main>
